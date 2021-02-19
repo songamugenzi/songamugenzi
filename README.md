@@ -1,8 +1,8 @@
 ## Hello 👋🏾 👨🏾‍💻
 
-Hi, I'm Songa (_song-uh_)! I'm a strategy-minded full stack developer passionate about crafting intuitive, dynamic applications for emerging technologies
+Hi, I'm Songa (_song-uh_)! I'm a strategy-minded full stack developer passionate about crafting intuitive, dynamic applications for emerging technologies.
 
-Find me around the web 🌐
+Find me around the web 🌐 :
 
 - 🔭 Working on the React.js front end of my blogsite, coming soon!  
 - 🌱 I’m currently learning Vue.js
