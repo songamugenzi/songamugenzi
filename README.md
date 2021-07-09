@@ -4,7 +4,7 @@ Hi, I'm Songa (_song-uh_)! I'm a strategy-minded full stack developer passionate
 
 Find me around the web 🌐 :
  
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning Next.js
 - 🔭 Celebrating MARS 2020 Perseverance success! 🚀 ✨
 - 🎨 Fun fact: I'm also a UX Designer 👨🏾‍🎨
 - 😄 Pronouns: He/Him
